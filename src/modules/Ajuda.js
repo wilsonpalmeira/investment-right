@@ -1,20 +1,16 @@
 import React from 'react';
 import {
-  Card, CardImg, CardText, CardBody,
-  CardTitle, CardSubtitle, Button
+  Card, CardImg, CardText, CardTitle
 } from 'reactstrap';
-import styles from '../css/styles.css';
+
 import Img3 from "../img/img3.png"
 import Img4 from "../img/img4.png"
 import Img20 from "../img/img20.png"
 import Img21 from "../img/img21.png"
 import Img22 from "../img/img22.png"
-import Img23 from "../img/img23.png"
-import Img60 from "../img/img60.png"
 import Img63 from "../img/img63.png"
 import Img64 from "../img/img64.png"
 import Img65 from "../img/img65.png"
-import Img66 from "../img/img66.png"
 import Img67 from "../img/img67.png"
 const Ajuda = (props) => {
   return (
