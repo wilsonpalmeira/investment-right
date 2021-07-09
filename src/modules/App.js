@@ -11,9 +11,6 @@ import CasosPraticos from './CasosPraticos'
 import PoliticaApp from './PoliticaApp'
 import Ajuda from './Ajuda'
 import Sobre from './Sobre'
-//import styles from '../css/styles.css'
-//import Icon from "../img/icon.png"
-
 
 export default function App() {
   return (

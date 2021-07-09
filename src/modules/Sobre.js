@@ -1,9 +1,8 @@
 import React from 'react'
 import {
-  Card, CardImg, CardText, CardBody,
-  CardTitle, CardSubtitle, Button
+  Card, CardImg, CardText, 
+  CardTitle, CardSubtitle
 } from 'reactstrap';
-import Img1 from "../img/img1.png"
 
 export default function Sobre() {
   return (

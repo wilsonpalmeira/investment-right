@@ -1,14 +1,6 @@
   import React from 'react';
   import { Card, Button, CardTitle, CardText } from 'reactstrap';
-/*
-  import styles from '../css/styles.css';
-  import Img1 from "../img/img1.png"
-  import Img2 from "../img/img2.png"
-  import Img3 from "../img/img3.png"
-  import Img4 from "../img/img4.png"
-  import Img5 from "../img/img5.png"
-  import Img6 from "../img/img6.png"  
-*/ 
+
   const CasosPraticos = (props) => {
     return (
       <div>

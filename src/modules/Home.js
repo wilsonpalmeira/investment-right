@@ -1,7 +1,6 @@
 import React, { useState } from 'react';
 import {
-  Card, CardText, CardBody,
-  CardTitle, CardSubtitle, Button,  
+  CardTitle, CardSubtitle,  
   Carousel,
   CardImg,
   CarouselItem,
@@ -17,30 +16,11 @@ import price from "../img/price.jpg"
 import jcjs from "../img/jcjs.jpg"
 import Img3 from "../img/img3.png"
 import Img4 from "../img/img4.png"
-import Img5 from "../img/img5.png"
 import Img6 from "../img/img6.png"
-import Img7 from "../img/img7.png"
-import Img8 from "../img/img8.png"
-import Img9 from "../img/img9.png"
-import Img10 from "../img/img10.png"
-import Img11 from "../img/img11.png"
 import Img21 from "../img/img21.png"
 import Img22 from "../img/img22.png"
-import Img51 from "../img/img51.png"
-import Img52 from "../img/img52.png"
-import Img53 from "../img/img53.png"
-import Img54 from "../img/img54.png"
-import Img55 from "../img/img55.png"
 import Img56 from "../img/img56.png"
-import Img57 from "../img/img57.png"
-import Img58 from "../img/img58.png"
-import Img59 from "../img/img59.png"
-import Img60 from "../img/img60.png"
-import Img61 from "../img/img61.png"
-import Img62 from "../img/img62.png"
 import Img64 from "../img/img64.png"
-
-import styles from '../css/styles.css'
 
 const items = [
   {
